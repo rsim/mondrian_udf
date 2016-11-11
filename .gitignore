@@ -1,0 +1,5 @@
+.bundle
+.rvmrc
+.DS_Store
+Gemfile.lock
+/target
